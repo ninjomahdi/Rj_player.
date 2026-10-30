@@ -1,6 +1,7 @@
 {
   "name": "Rj Player",
   "short_name": "Rj Player",
+  "description": "Rj Music Player App",
   "start_url": "/Rj_player/",
   "display": "standalone",
   "background_color": "#ffffff",
